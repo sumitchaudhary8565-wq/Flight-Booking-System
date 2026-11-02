@@ -22,22 +22,35 @@ Technologies Used :
 - LocalDate for handling travel dates.
 
 How to Run :
+
 1.Keep FlightBookingSystem.java in a folder.
+
 2.Open a terminal or command prompt in that folder.
+
 3.Compile the program: javac FlightBookingSystem.java
+
 4.Run the program: java FlightBookingSystem 
 
 How to Use :
 
 1.Select Register from the main menu and write your username and password.
+
 2.Select Login and enter your username and password as you written already.
+
 3.After login,there will appear four options 1.Search Flights 2.View My Bookings 3.Cancel Booking 4.Logout.
+
 4.choose Search Flights.
+
 5.Enter the source city, destination city and travel date in YYYY-MM-DD format.
+
 6.Select a flight by entering its flight number.
+
 7.Enter the passenger details and choose a payment method.
+
 8.The program displays the ticket after a successful booking.
+
 9.Use View My Bookings to see your bookings or Cancel Booking to cancel an active booking.
+
 10.Select Logout when finished.
 
 Sample Flight Data :
